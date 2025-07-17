@@ -14,7 +14,7 @@ public class DecreasingTriangle {
 				System.out.println();
 			}
 		} else {
-			System.out.println("Invalid Input!!!");
+			System.out.println("Invalid Input!!! Please enter a number greater than 0");
 		}
 	}
 
