@@ -13,6 +13,8 @@ public class IncreasingTriangle {
 				}
 				System.out.println();
 			}
+		} else {
+			System.out.println("Invalid Input!!!");
 		}
 	}
 }
